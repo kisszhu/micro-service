@@ -1,7 +1,14 @@
 # micro-service
 
-## 微服务项目结构
-定义为Intellij Idea模版
+## 微服务项目结构  
+
+### application
+
+### domain
+
+### infrastructure
+
+### interfaces
 
 ## 微服务技术选型
 
