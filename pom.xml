@@ -11,6 +11,7 @@
 
     <modules>
         <module>order</module>
+        <module>base</module>
     </modules>
 
     <!-- 部署到私服 -->
