@@ -12,6 +12,7 @@
     <modules>
         <module>order</module>
         <module>base</module>
+        <module>ddd-spu</module>
     </modules>
 
     <!-- 部署到私服 -->
